@@ -11,4 +11,4 @@ title: "Example site: Email Archiving and Preservation Interest Group"
 This is an example site containing an edited version of the document(s) that the Interest Group are collaborating on, to demonstrate how this could be presented for sharing with the wider Archives community.
 
 ## What documents?
-This site has been set up for our first document, 'Best Practices for Acquiring Email Archives', with the potential for adding more in the future.
+This site has been set up for our first document, ['Best Practices for Acquiring Email Archives'](./acquisition-best-practice), with the potential for adding more in the future.
