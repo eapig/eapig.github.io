@@ -56,8 +56,41 @@ Redaction & Embargo periods
   
 ### Assembling your team
 
-There will be wide variance here depending on the size of your organisation. This section could be used by a lone archivist to identify which tasks they should be considering and can cover with their current skills; or by a large organisation to work out which departments need to be included. Some of these things may be able to be covered by external contractors, vendors, professional groups, etc.
+There will be wide variance here depending on the size of your organisation, and what processess are in-scope. This section could be used by a lone archivist to identify which tasks they should be considering and can cover with their current skills; or by a large organisation to work out which departments need to be included. Some of these things may be able to be covered by external contractors, vendors, professional groups, etc.
+
+Project needs can include:
+
+*Sourcing collections
+*Transfer to organization
+*Appraising/processing
+*file format conversion for preservation & access
+*facilitating storage environment, storage, processing, access tools
+*file format experts
+*copyright & legal concerns
+*Data security and privacy 
+*Processing the collection
+*Providing access to the collection
+*Overarching project management and leadership
+
+Roles which may map to these needs include:
+
+*Curators/archivists
+*IT staff
+*Processing staff
+*Copyright officers 
+*Privacy officers / Data Protection Lead
+*Legal staff
+*Outreach
+*Project champion
+*Vendors (technical, storage, legal advice)
+
 
 > Need to work out how to ensure this section doesn't just repeat / overlap with the Processes section above
 
 ## Working with Donors/Creators
+
+This section has been split in to two parts; dealing with internal email for an organisation's own archives or similar sitations where the record creator is obliged to provide their email, and recieving email from external donors.
+
+###External donor###
+
+###Internal creator###
