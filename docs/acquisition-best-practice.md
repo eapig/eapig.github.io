@@ -42,13 +42,14 @@ Similarly, you may wish to require that any encryped material has protections re
 **Access policy**
 
 Copyright
+
 It is almost inevitable that there will be 3rd party copyright in any email account. The consequences of this will vary by location, but generally speaking 3rd parties will have copyright over the content of any emails they sent, which may well be replicated in reply chains, or similar. The depositor will likely only have copyright over their sent emails, not including any 3rd party reply chain content.
 
-**Ethical concerns - 3rd party information**
+Ethical concerns - 3rd party information
 
 Many email collections may contain information on 3rd parties that is not covered by data protection legislation, but may still cause distress if it were published. You may wish to consider and flag such information in your appraisal process, and treat access differently.
 
-**Redaction & Embargo periods**
+Redaction & Embargo periods
 > Is there anything email-specific about redaction & embargo policy? Certainly good to flag redaction tools, but that would belong in another section
 
 > Should confirm that everything listed here really is policy level stuff, rather than per-collection considerations to be made at the end of the process, and hence discussed further down this document
