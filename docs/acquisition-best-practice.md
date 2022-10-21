@@ -3,7 +3,7 @@ layout: default
 title: Best Practices for Acquiring Email Archives
 permalink: /acquisition-best-practice/
 ---
-> The present version of this page has been put together from the group's working notes (Google doc) to demonstrate how a finished product might look. This necessarily includes one contributor's edits and phrasing interpreting the group's work, none of which should be considered final!
+> The present version of this page has been put together from the group's working notes (Google doc) to demonstrate how a finished product might look. This is just one contributor's edits and phrasing interpreting the group's work, none of which should be considered final!
 
 This document is designed to help identify the considerations involved in aquisition of email archives specifically which do not appear in, or are significantly different compared to, acquisition of other electronic archives. This assumes that the repository has identified email as a type of digital resource of interest. Clear, high-level leadership is necessary to build up the skills and resources to successfully build and run an email collecting effort
 
@@ -34,13 +34,20 @@ This document is designed to help identify the considerations involved in aquisi
   
 ### Internal policies required
 
-- Types of email you will collect
-  - Limit to certain formats?
-  - Refuse encrypted material?
-- How to deal with 3rd party information found in email collections
-- Embargo periods
-  - May be necessary if your institution doesn't have robust redaction capability
-  - Can be blanket, or case-by-case
+- Collecting Policy
+You may wish to restrict to collecting certain formats which can be dealt with via simple workflows, or conversely be restricted to only being able to process certain formats eg by restrictions on what tools can be used from an IT department.
+Similarly, you may wish to require that any encryped material has protections removed before transfer, or refuse such material outright.
+- Ethical concerns
+  - How to deal with 3rd party information found in email collections
+- Access policy
+  - Copyright
+It is almost inevitable that there will be 3rd party copyright in any email account. The consequences of this will vary by location, but generally speaking 3rd parties will have copyright over the content of any emails they sent, which may well be replicated in reply chains, or similar. The depositor will likely only have copyright over their sent emails, not including any 3rd party reply chain content.
+  - Ethical concerns - 3rd party information
+Many email collections may contain information on 3rd parties that is not covered by data protection legislation, but may still cause distress if it were published. You may wish to consider and flag such information in your appraisal process, and treat access differently.
+- Redaction & Embargo periods
+> Is there anything email-specific about redaction & embargo policy? Certainly good to flag redaction tools, but that would belong in another section
+
+> Should confirm that everything listed here really is policy level stuff, rather than per-collection considerations to be made at the end of the process, and hence discussed further down this document
   
 ### Assembling your team
 
