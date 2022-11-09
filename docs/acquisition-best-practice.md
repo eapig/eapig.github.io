@@ -60,29 +60,29 @@ There will be wide variance here depending on the size of your organisation, and
 
 Project needs can include:
 
-*Sourcing collections
-*Transfer to organization
-*Appraising/processing
-*file format conversion for preservation & access
-*facilitating storage environment, storage, processing, access tools
-*file format experts
-*copyright & legal concerns
-*Data security and privacy 
-*Processing the collection
-*Providing access to the collection
-*Overarching project management and leadership
+*   Sourcing collections
+*   Transfer to organization
+*   Appraising/processing
+*   file format conversion for preservation & access
+*   facilitating storage environment, storage, processing, access tools
+*   file format experts
+*   copyright & legal concerns
+*   Data security and privacy 
+*   Processing the collection
+*   Providing access to the collection
+*   Overarching project management and leadership
 
 Roles which may map to these needs include:
 
-*Curators/archivists
-*IT staff
-*Processing staff
-*Copyright officers 
-*Privacy officers / Data Protection Lead
-*Legal staff
-*Outreach
-*Project champion
-*Vendors (technical, storage, legal advice)
+*   Curators/archivists
+*   IT staff
+*   Processing staff
+*   Copyright officers 
+*   Privacy officers / Data Protection Lead
+*   Legal staff
+*   Outreach
+*   Project champion
+*   Vendors (technical, storage, legal advice)
 
 
 > Need to work out how to ensure this section doesn't just repeat / overlap with the Processes section above
